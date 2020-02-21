@@ -1,2 +1,2 @@
-# nansidhrumitkishadi.github.io
-nansi &amp; dhrumit wedding
+# jaybhargavidiwedding.github.io
+Jay &amp; Bhargavi wedding

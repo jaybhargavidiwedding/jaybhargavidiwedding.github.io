@@ -618,7 +618,7 @@ img {
 }
 /* Header section */
 .cover {
-	height: 250vh;
+	height: 100vh;
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
